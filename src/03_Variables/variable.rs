@@ -1,5 +1,4 @@
-fn main() {
-    println!("Hello, world!");
+pub fn variable() {
     let two = 2; // variable store integer value
     let hello = "hello"; // variable store string value
     let j = 'j';
@@ -8,4 +7,3 @@ fn main() {
     let quit_program = false;
     let your_half = my_half; // assigning different variable value 0.5
 }
-

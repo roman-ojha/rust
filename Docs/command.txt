@@ -1,0 +1,7 @@
+-> cargo new <project_name> (to create project)
+-> cargo build (to build project)
+-> cargo run (to run project)
+-> rustup doc --book (to open rust book)
+-> rust doc (to open rust documentation)
+-> rustup update (to update rust)
+-> rustc <file_name>.rs (to compile rust file)
